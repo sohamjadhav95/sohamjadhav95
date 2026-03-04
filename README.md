@@ -7,6 +7,7 @@ I am an **AI Engineer** specializing in designing and deploying deep learning an
 ### 🛠️ Current Focus
 
 * **Product Development**: Currently building and scaling **Copilot for Data Science** as a standalone product.
+* **Skill Advancement:** Deepening expertise in AI/ML Architecture, Fine-tuning LLMs, and designing Scalable ML Pipelines.
 * **Open Source**: Actively preparing for **GSoC (Google Summer of Code) 2026**.
 
 ---
