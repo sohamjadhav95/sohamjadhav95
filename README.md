@@ -8,7 +8,6 @@ I am an **AI Engineer** specializing in designing and deploying deep learning an
 
 * **Product Development**: Currently building and scaling **Copilot for Data Science** as a standalone product.
 * **Open Source**: Actively preparing for **GSoC (Google Summer of Code) 2026**.
-* **Academics**: Preparing for advanced research opportunities following the **GATE 2026** exams.
 
 ---
 
