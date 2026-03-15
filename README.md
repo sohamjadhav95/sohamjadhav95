@@ -6,17 +6,20 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohamjadhav95)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sohamjadhav95)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sohamjadhav95.lovable.dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sohamjadhav_95)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soham.ai.engineer@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sohamjadhav95)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sohamjadhav95)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/sohamjadhav_95)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:soham.ai.engineer@gmail.com)
+[![Portfolio](https://skillicons.dev/icons?i=prometheus)](https://sohamjadhav95.lovable.app/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sohamjadhav95&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 
 </div>
 
 ---
+</div>
 
 ## 🧠 About Me
 ```python
@@ -82,11 +85,11 @@ class SohamJadhav:
 <td width="50%" valign="top">
 
 ### 📄 Gen-AI Resume & Cover Letter Tailoring
-> T5-powered personalized application documents
+> LLaMA + T5 powered personalized application documents
 
+- Fine-tuned **LLaMA** via QLoRA on 4,500+ instruction examples
 - Fine-tuned **T5** on job-resume datasets
 - Semantic similarity engine + RAG pipeline
-- Aligns resumes to specific JD requirements
 - **Stack:** PyTorch · HuggingFace · Streamlit · RAG
 
 </td>
@@ -98,27 +101,27 @@ class SohamJadhav:
 ## 🛠️ Tech Stack
 
 ### 🤖 AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://tensorflow.org)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org)
+[![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://langchain.com)
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
 ### 🧰 Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
+[![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)](https://colab.research.google.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
 
 ---
 
@@ -126,20 +129,21 @@ class SohamJadhav:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sohamjadhav95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamjadhav95&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=sohamjadhav95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" height="160"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamjadhav95&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
+</td>
+<td>
+<img src="https://streak-stats.demolab.com?user=sohamjadhav95&theme=tokyonight&hide_border=true&background=0D1117&fire=FF6B35&ring=6AD3F7&currStreakLabel=6AD3F7" height="160"/>
+</td>
+</tr>
+</table>
 
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sohamjadhav95&theme=tokyonight&hide_border=true&background=0D1117&fire=FF6B35&ring=6AD3F7&currStreakLabel=6AD3F7)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sohamjadhav95&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=6AD3F7&point=FF6B35)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamjadhav95&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=6AD3F7&point=FF6B35" width="100%"/>
 
 </div>
 
@@ -161,18 +165,18 @@ class SohamJadhav:
 |-----------|----------------|---------|
 | B.E. — Artificial Intelligence & Data Science | MET's Institute of Engineering, Nashik | 2022 – 2026 |
 
-| 📜 Certification | 🏢 Issuer |
-|-----------------|-----------|
-| AI Engineering Professional Certificate | IBM |
-| Generative AI Career Essentials | Microsoft / LinkedIn |
+| 📜 Certification | 🏢 Issuer | 🏷️ Domain |
+|-----------------|-----------|----------|
+| AI Engineering Professional Certificate | IBM | AI / ML |
+| Generative AI Career Essentials | Microsoft / LinkedIn | Generative AI |
+| Python for Data Science & AI | IBM / Coursera | Data Science |
 
 ---
 
-## 🌱 Leadership
+## 🌱 Leadership & Recognition
 
 > **Co-Lead — AI & Machine Learning** · Google Developer Groups (GDG) On Campus, Nashik *(Sept 2024 – Oct 2025)*
->
-> Taught and mentored peers in AI, ML, and Generative AI. Organized hands-on sessions on emerging technologies for the campus developer community.
+> Taught and mentored peers in AI, ML, and Generative AI. Organized hands-on sessions on emerging technologies.
 
 ---
 
@@ -183,6 +187,37 @@ class SohamJadhav:
 - [ ] 🚀 Launch **Copilot for Data Science** as a standalone product
 - [ ] 📝 Publish first technical writeup / research note
 - [ ] 💼 Land a full-time **AI/ML Engineer** role
+
+---
+
+## 💭 Philosophy
+```python
+# ──────────────────────────────────────────────
+#   T H E   E N G I N E E R ' S   M A N T R A
+# ──────────────────────────────────────────────
+
+from mindset import Curiosity, Discipline, Patience
+from reality  import Problems, Impact
+
+def path_to_success(dream: str) -> Impact:
+    goal = {
+        "start" : "where_you_are_now",
+        "aim"   : dream,
+        "fuel"  : Discipline + Curiosity
+    }
+
+    for iteration in range(0, ∞):          # no finish line
+
+        step_1 = research(problem_deeply)  # understand before solving
+        step_2 = learn(tools_to_solve_it)  # sharpen before striking
+        step_3 = build(something_real)     # ideas only count shipped
+
+        if iteration % 100 == 0:
+            reflect()                      # recalibrate, not retreat
+
+    # "The expert in anything was once a beginner."
+    return Impact(measurable=True, lasting=True)
+```
 
 ---
 
