@@ -178,10 +178,9 @@ class SohamJadhav:
 | 🏅 Python | HackerRank | [![View](https://img.shields.io/badge/View_Certificate-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/53b61ef07dc0) |
 | 🏅 SQL Advanced | HackerRank | [![View](https://img.shields.io/badge/View_Certificate-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/afeaec38fec2) |
 | 🏅 Co-Lead — AI & Machine Learning | Google Developer Groups | [![View](https://img.shields.io/badge/View_Profile-4285F4?style=flat-square&logo=google&logoColor=white)](https://linkedin.com/in/sohamjadhav95) |
+<div>
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sohamjadhav95/sohamjadhav95/main/assets/certs/certs-slideshow.gif" width="400"/>
+<img src="https://raw.githubusercontent.com/sohamjadhav95/sohamjadhav95/main/assets/certs/download.gif" width="400"/>
 
 </div>
 
