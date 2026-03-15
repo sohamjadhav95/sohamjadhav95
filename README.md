@@ -165,11 +165,25 @@ class SohamJadhav:
 |-----------|----------------|---------|
 | B.E. — Artificial Intelligence & Data Science | MET's Institute of Engineering, Nashik | 2022 – 2026 |
 
-| 📜 Certification | 🏢 Issuer | 🏷️ Domain |
-|-----------------|-----------|----------|
-| AI Engineering Professional Certificate | IBM | AI / ML |
-| Generative AI Career Essentials | Microsoft / LinkedIn | Generative AI |
-| Python for Data Science & AI | IBM / Coursera | Data Science |
+<br/>
+
+### 📜 Certificates
+
+| Certificate | Issuer | Verify |
+|-------------|--------|--------|
+| 🏅 AI Engineering Professional | IBM / Coursera | [![View](https://img.shields.io/badge/View_Certificate-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/verify/professional-cert/IJ5Z0ADQ8EC2) |
+| 🏅 Deep Learning with PyTorch, Keras & TensorFlow | IBM / Coursera | [![View](https://img.shields.io/badge/View_Certificate-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/verify/professional-cert/LT6ZHJY82CPB) |
+| 🏅 Generative AI Engineering with LLMs | IBM / Coursera | [![View](https://img.shields.io/badge/View_Certificate-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://coursera.org/verify/specialization/4PDD1WMUR5ZD) |
+| 🏅 Career Essentials in Generative AI | Microsoft & LinkedIn | [![View](https://img.shields.io/badge/View_Certificate-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohamjadhav95) |
+| 🏅 Python | HackerRank | [![View](https://img.shields.io/badge/View_Certificate-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/53b61ef07dc0) |
+| 🏅 SQL Advanced | HackerRank | [![View](https://img.shields.io/badge/View_Certificate-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/afeaec38fec2) |
+| 🏅 Co-Lead — AI & Machine Learning | Google Developer Groups | [![View](https://img.shields.io/badge/View_Profile-4285F4?style=flat-square&logo=google&logoColor=white)](https://linkedin.com/in/sohamjadhav95) |
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sohamjadhav95/sohamjadhav95/main/assets/certs/certs-slideshow.gif" width="400"/>
+
+</div>
 
 ---
 
@@ -177,6 +191,50 @@ class SohamJadhav:
 
 > **Co-Lead — AI & Machine Learning** · Google Developer Groups (GDG) On Campus, Nashik *(Sept 2024 – Oct 2025)*
 > Taught and mentored peers in AI, ML, and Generative AI. Organized hands-on sessions on emerging technologies.
+
+---
+
+## 📄 Research Publications
+
+<div>
+
+![Publications](https://img.shields.io/badge/Papers_Published-2-6AD3F7?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Publisher](https://img.shields.io/badge/Springer_Nature-Cureus-FF6B35?style=for-the-badge&logo=springer&logoColor=white)
+![Type](https://img.shields.io/badge/Review_Papers-Multimodal_AI-blueviolet?style=for-the-badge&logo=arxiv&logoColor=white)
+
+</div>
+
+<br/>
+
+### 🔬 Paper 1 — Springer Nature (Cureus)
+
+> **Convo-Ease: Intelligent Multi-Modal Moderation for Digital Organizational Communication**
+
+| Field | Details |
+|-------|---------|
+| 👥 Authors | Soham S. Jadhav, Nisha D. Patil, Omkar N. Gadakh, Atharv S. Gaikwad |
+| 🏛️ Institution | MET's Institute of Engineering, Nashik |
+| 📰 Publisher | **Cureus — Part of Springer Nature** |
+| 📅 Year | 2025 |
+| 🏷️ Keywords | AI Moderation · Multimodal Learning · Text-Image-Audio Fusion · Policy-as-Prompt |
+
+**Abstract:** Proposes *Convo-Ease* — an AI-driven moderation framework using a Gatekeeper Architecture that validates content pre-delivery across text, image, and audio modalities in organizational chat systems. Introduces a Policy-as-Prompt method achieving sub-3-second latency with Gemma 3, BLIP-2, and Whisper.
+
+---
+
+### 🔬 Paper 2 — ICIA Conference
+
+> **Beyond Text: A Comprehensive Survey of Multimodal Content Moderation Architectures in Enterprise Environments**
+
+| Field | Details |
+|-------|---------|
+| 👥 Authors | Soham S. Jadhav, Omkar N. Gadakh, Nisha D. Patil, Atharv S. Gaikwad |
+| 🏛️ Institution | MET's Institute of Engineering, Nashik |
+| 📰 Publisher | **ICIA Conference Proceedings** |
+| 📅 Year | 2025 |
+| 🏷️ Keywords | Multimodal Moderation · LLMs · Gatekeeper Architecture · Enterprise Security · Audio-Visual Fusion |
+
+**Abstract:** Surveys 26+ content moderation methodologies ranging from LLM-based guardrails to multimodal fusion architectures. Critically examines the transition from reactive API-based moderation to dynamic Policy-as-Prompt frameworks, identifying critical research gaps in latency management and on-premise privacy preservation.
 
 ---
 
