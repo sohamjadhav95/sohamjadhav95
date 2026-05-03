@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soham%20Jadhav&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Deep%20Learning%20%7C%20Generative%20AI&descAlignY=55&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Building+AI+that+solves+real+problems+%F0%9F%A7%A0;Deep+Learning+%7C+LLMs+%7C+Computer+Vision;GSoC+2026+%40+ML4Sci+DeepLense+%F0%9F%94%AD;Final+Year+AI+%26+DS+Engineer+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Building+AI+that+solves+real+problems+%F0%9F%A7%A0;Deep+Learning+%7C+LLMs+%7C+Computer+Vision;GSoC+2026+Contributor+%40+ML4Sci+%E2%9C%85;Final+Year+AI+%26+DS+Engineer+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 <br/>
 
@@ -29,8 +29,8 @@ class SohamJadhav:
         self.role        = "AI Engineer"
         self.education   = "B.E. AI & Data Science @ MET's Institute of Engineering, Nashik (2022–2026)"
         self.focus       = ["Deep Learning", "Generative AI", "Agentic Workflows", "Computer Vision"]
-        self.gsoc        = "GSoC 2026 Applicant → ML4Sci DeepLense (DEEPLENSE6, DEEPLENSE7, PREDICT1)"
-        self.open_source = "pgmpy contributor"
+        self.gsoc        = "GSoC 2026 @ ML4Sci — PREDICT1: CAC Segmentation (Selected)"
+        self.open_source = ["pgmpy (PR #3160 — LinearGaussianBN)", "pyaptamer (ESoC Batch 2)"]
         self.building    = ["Copilot for Data Science", "Multimodal Org Communication System"]
         self.email       = "soham.ai.engineer@gmail.com"
 
@@ -57,12 +57,13 @@ class SohamJadhav:
 </td>
 <td width="50%" valign="top">
 
-### 🔭 ML4Sci DeepLense — GSoC 2026
-> Strong gravitational lens detection & segmentation
+### 🔭 GSoC 2026 @ ML4Sci — CAC Segmentation
+> Building and comparing segmentation strategies for Coronary Artery Calcium
 
-- ResNet18 multi-class lens classification → **~92.5% val accuracy, AUC ~0.985**
-- Binary lens finder with `WeightedRandomSampler` → **~97% test accuracy**
-- CAC segmentation on Stanford COCA dataset (U-Net, Dice > 0.85 target)
+- **Selected contributor** out of global applicant pool — ML4Sci / PREDICT1
+- Whole-heart U-Net on Stanford COCA dataset → **median Dice 0.9416**
+- **3,157× speedup** over TotalSegmentator baseline
+- Midterm eval: July 10 · Final submission: Aug 24
 - **Stack:** PyTorch · ResNet · U-Net · Colab
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sohamjadhav95/ML4Sci-DeepLense-GSoC2026)
@@ -231,6 +232,7 @@ class SohamJadhav:
 ## 🎯 2026 Goals
 
 - [x] 🔭 Get accepted into **GSoC 2026** - ML4Sci
+- [ ] 🏥 Complete GSoC 2026 midterm with reproducible CAC segmentation pipeline
 - [ ] 🤝 Merge open-source contribution into **pgmpy**
 - [ ] 🚀 Launch **Copilot for Data Science** as a standalone product
 - [x] 📝 Publish first technical writeup/research note
