@@ -243,7 +243,7 @@ class SohamJadhav:
 ## 💭 Philosophy
 ```python
 # ──────────────────────────────────────────────
-#   T H E   E N G I N E E R ' S   M A N T R A
+#   T H E   E N G I N E E R ' S   M O D E L
 # ──────────────────────────────────────────────
 
 from mindset import Curiosity, Discipline, Patience
