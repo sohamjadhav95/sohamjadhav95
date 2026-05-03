@@ -230,11 +230,11 @@ class SohamJadhav:
 
 ## 🎯 2026 Goals
 
-- [ ] 🔭 Get accepted into **GSoC 2026** with ML4Sci DeepLense
+- [x] 🔭 Get accepted into **GSoC 2026** - ML4Sci
 - [ ] 🤝 Merge open-source contribution into **pgmpy**
 - [ ] 🚀 Launch **Copilot for Data Science** as a standalone product
-- [ ] 📝 Publish first technical writeup / research note
-- [ ] 💼 Land a full-time **AI/ML Engineer** role
+- [x] 📝 Publish first technical writeup/research note
+- [ ] 💼 Land a full-time **AI/ML Engineer** as profession
 
 ---
 
