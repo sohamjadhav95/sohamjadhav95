@@ -206,7 +206,7 @@ class SohamJadhav:
 | 👥 Authors | Soham S. Jadhav, Nisha D. Patil, Omkar N. Gadakh, Atharv S. Gaikwad |
 | 🏛️ Institution | MET's Institute of Engineering, Nashik |
 | 📰 Publisher | **Cureus — Part of Springer Nature** |
-| 📅 Year | 2025 |
+| 📅 Year | 2026 |
 | 🏷️ Keywords | AI Moderation · Multimodal Learning · Text-Image-Audio Fusion · Policy-as-Prompt |
 
 **Abstract:** Proposes *Convo-Ease* — an AI-driven moderation framework using a Gatekeeper Architecture that validates content pre-delivery across text, image, and audio modalities in organizational chat systems. Introduces a Policy-as-Prompt method achieving sub-3-second latency with Gemma 3, BLIP-2, and Whisper.
@@ -222,7 +222,7 @@ class SohamJadhav:
 | 👥 Authors | Soham S. Jadhav, Omkar N. Gadakh, Nisha D. Patil, Atharv S. Gaikwad |
 | 🏛️ Institution | MET's Institute of Engineering, Nashik |
 | 📰 Publisher | **ICIA Conference Proceedings** |
-| 📅 Year | 2025 |
+| 📅 Year | 2026 |
 | 🏷️ Keywords | Multimodal Moderation · LLMs · Gatekeeper Architecture · Enterprise Security · Audio-Visual Fusion |
 
 **Abstract:** Surveys 26+ content moderation methodologies ranging from LLM-based guardrails to multimodal fusion architectures. Critically examines the transition from reactive API-based moderation to dynamic Policy-as-Prompt frameworks, identifying critical research gaps in latency management and on-premise privacy preservation.
