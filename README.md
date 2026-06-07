@@ -62,7 +62,7 @@ class SohamJadhav:
 
 - **Selected contributor** out of global applicant pool — ML4Sci / PREDICT1
 - Whole-heart U-Net on Stanford COCA dataset → **median Dice 0.9416**
-- **3,157× speedup** over TotalSegmentator baseline
+- **63× speedup** over TotalSegmentator baseline
 - Midterm eval: July 10 · Final submission: Aug 24
 - **Stack:** PyTorch · ResNet · U-Net · Colab
 
